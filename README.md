@@ -16,9 +16,8 @@ Clone the repository:
    git clone https://github.com/your-username/job-scraper.git
    cd job-scraper
 
-   ``` bash
    python main.py
-
+```
 ## Files
 
 - main.py: The main entry point of the program. It runs the job scraping process and asks the user if they want to exit.
