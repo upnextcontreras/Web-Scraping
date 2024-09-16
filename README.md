@@ -36,9 +36,9 @@ Install the required packages with:
 pip install beautifulsoup4 requests
 ```
 ## Example Output
-<img width="247" alt="WEB OUTPUT" src="https://github.com/user-attachments/assets/5c2a4a82-08f6-4edf-8316-7bf4b05214b3">
+<img width="300" height="300" alt="WEB OUTPUT" src="https://github.com/user-attachments/assets/5c2a4a82-08f6-4edf-8316-7bf4b05214b3">
 
-<img width="119" alt="JOB LIST" src="https://github.com/user-attachments/assets/56267528-1b65-4dc0-aabd-d3303ae979da">
+<img width="300" height="300" alt="JOB LIST" src="https://github.com/user-attachments/assets/56267528-1b65-4dc0-aabd-d3303ae979da">
 
 ## How It Works
 
