@@ -15,7 +15,9 @@ Clone the repository:
    ```bash
    git clone https://github.com/your-username/job-scraper.git
    cd job-scraper
-
+```
+Run the script:
+   ```bash
    python main.py
 ```
 ## Files
@@ -32,6 +34,7 @@ Clone the repository:
 Install the required packages with:
 ```bash
 pip install beautifulsoup4 requests
+```
 
 ## How It Works
 
