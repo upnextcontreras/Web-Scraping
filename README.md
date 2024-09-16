@@ -35,6 +35,8 @@ Install the required packages with:
 ```bash
 pip install beautifulsoup4 requests
 ```
+## Example Output
+
 
 ## How It Works
 
