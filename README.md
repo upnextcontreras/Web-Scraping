@@ -45,3 +45,7 @@ pip install beautifulsoup4 requests
 - The JobScraper class fetches job listings from the TimesJobs website using requests and parses the HTML using BeautifulSoup.
 - The user inputs a skill they are unfamiliar with, and the scraper filters out any jobs that list that skill.
 - For each relevant job, the script saves the job details into a text file located in the job_postings directory.
+
+## Disclaimer
+
+I am not maintaining this code; it is just for learning and educational purposes.
